@@ -1,0 +1,15 @@
+.hero{
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+
+.btn{
+  margin-top:20px;
+  padding:10px 20px;
+  text-decoration:none;
+  background:#00adb5;
+  color:white;
+}
