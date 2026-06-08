@@ -1,11 +1,10 @@
 portfolio/
 │
-├── public/
-│   └── resume.pdf
 │
 └── src/
     ├── App.js
     ├── App.css
+    ├── Resume.pdf
     ├── index.js
     ├── index.css
     │
