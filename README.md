@@ -8,8 +8,7 @@ portfolio/
     ├── index.js
     ├── index.css
     │
-    ├── assets/
-    │   └── profile.png
+    │── profile.png
     │
     └── components/
         ├── Navbar.js
